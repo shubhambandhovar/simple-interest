@@ -9,3 +9,4 @@ Simple Interest = (Principal * Rate * Time) / 100
 Run the script:
 ```bash
 bash simple-interest.sh
+# Edited README file
